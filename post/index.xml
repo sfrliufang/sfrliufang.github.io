@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Fang Liu group</title>
+    <link>https://sfrliufang.github.io/post/</link>
+      <atom:link href="https://sfrliufang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 16 Aug 2020 17:10:29 +0000</lastBuildDate>
+    <image>
+      <url>https://sfrliufang.github.io/images/logo_hu785fca0ee71cd026e8d13310be6856c5_150044_300x300_fit_lanczos_2.png</url>
+      <title>Posts</title>
+      <link>https://sfrliufang.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>8/16/2020 Lab opening! </title>
+      <link>https://sfrliufang.github.io/post/post-1/</link>
+      <pubDate>Sun, 16 Aug 2020 17:10:29 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/post/post-1/</guid>
+      <description>&lt;p&gt;These are how the rooms look like when we take it over from the biology lab. Very bright and spacious. We will turn them into sample fabrication lab and laser labs soon! Welcome to the new lab!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

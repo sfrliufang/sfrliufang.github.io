@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amy M Green | Fang Liu group</title>
+    <link>https://sfrliufang.github.io/author/amy-m-green/</link>
+      <atom:link href="https://sfrliufang.github.io/author/amy-m-green/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amy M Green</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sfrliufang.github.io/images/logo_hu785fca0ee71cd026e8d13310be6856c5_150044_300x300_fit_lanczos_2.png</url>
+      <title>Amy M Green</title>
+      <link>https://sfrliufang.github.io/author/amy-m-green/</link>
+    </image>
+    
+    <item>
+      <title>UV&#43; V UV double-resonance studies of autoionizing Rydberg states of the hydroxyl radical</title>
+      <link>https://sfrliufang.github.io/publication/green-2016-uv/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/green-2016-uv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UV spectroscopic characterization of dimethyl-and ethyl-substituted carbonyl oxides</title>
+      <link>https://sfrliufang.github.io/publication/liu-2014-uv/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/liu-2014-uv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

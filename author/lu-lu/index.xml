@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lu Lu | Fang Liu group</title>
+    <link>https://sfrliufang.github.io/author/lu-lu/</link>
+      <atom:link href="https://sfrliufang.github.io/author/lu-lu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lu Lu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sfrliufang.github.io/images/logo_hu785fca0ee71cd026e8d13310be6856c5_150044_300x300_fit_lanczos_2.png</url>
+      <title>Lu Lu</title>
+      <link>https://sfrliufang.github.io/author/lu-lu/</link>
+    </image>
+    
+    <item>
+      <title>UV spectroscopic characterization of an alkyl substituted Criegee intermediate CH$_3$CHOO</title>
+      <link>https://sfrliufang.github.io/publication/beames-2013-uv/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/beames-2013-uv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultraviolet spectrum and photochemistry of the simplest Criegee intermediate CH$_2$OO</title>
+      <link>https://sfrliufang.github.io/publication/beames-2012-ultraviolet/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/beames-2012-ultraviolet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

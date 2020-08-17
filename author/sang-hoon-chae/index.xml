@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sang Hoon Chae | Fang Liu group</title>
+    <link>https://sfrliufang.github.io/author/sang-hoon-chae/</link>
+      <atom:link href="https://sfrliufang.github.io/author/sang-hoon-chae/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sang Hoon Chae</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sfrliufang.github.io/images/logo_hu785fca0ee71cd026e8d13310be6856c5_150044_300x300_fit_lanczos_2.png</url>
+      <title>Sang Hoon Chae</title>
+      <link>https://sfrliufang.github.io/author/sang-hoon-chae/</link>
+    </image>
+    
+    <item>
+      <title>Disassembling 2D van der Waals crystals into macroscopic monolayers and reassembling into artificial lattices</title>
+      <link>https://sfrliufang.github.io/publication/liu-2020-disassembling/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/liu-2020-disassembling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

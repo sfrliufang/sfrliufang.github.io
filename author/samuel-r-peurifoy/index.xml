@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuel R Peurifoy | Fang Liu group</title>
+    <link>https://sfrliufang.github.io/author/samuel-r-peurifoy/</link>
+      <atom:link href="https://sfrliufang.github.io/author/samuel-r-peurifoy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Samuel R Peurifoy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sfrliufang.github.io/images/logo_hu785fca0ee71cd026e8d13310be6856c5_150044_300x300_fit_lanczos_2.png</url>
+      <title>Samuel R Peurifoy</title>
+      <link>https://sfrliufang.github.io/author/samuel-r-peurifoy/</link>
+    </image>
+    
+    <item>
+      <title>Three-dimensional graphene nanostructures</title>
+      <link>https://sfrliufang.github.io/publication/peurifoy-2018-three/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/peurifoy-2018-three/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cove-Edge Nanoribbon Materials for Efficient Inverted Halide Perovskite Solar Cells</title>
+      <link>https://sfrliufang.github.io/publication/castro-2017-cove/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/castro-2017-cove/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

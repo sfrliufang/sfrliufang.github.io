@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ward H Thompson | Fang Liu group</title>
+    <link>https://sfrliufang.github.io/author/ward-h-thompson/</link>
+      <atom:link href="https://sfrliufang.github.io/author/ward-h-thompson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ward H Thompson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sfrliufang.github.io/images/logo_hu785fca0ee71cd026e8d13310be6856c5_150044_300x300_fit_lanczos_2.png</url>
+      <title>Ward H Thompson</title>
+      <link>https://sfrliufang.github.io/author/ward-h-thompson/</link>
+    </image>
+    
+    <item>
+      <title>Hydroxyacetone production from C$_3$ Criegee intermediates</title>
+      <link>https://sfrliufang.github.io/publication/taatjes-2017-hydroxyacetone/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/taatjes-2017-hydroxyacetone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct observation of vinyl hydroperoxide</title>
+      <link>https://sfrliufang.github.io/publication/liu-2015-direct/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/liu-2015-direct/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

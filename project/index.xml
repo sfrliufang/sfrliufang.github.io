@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Fang Liu group</title>
+    <link>https://sfrliufang.github.io/project/</link>
+      <atom:link href="https://sfrliufang.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Aug 2020 01:44:34 +0000</lastBuildDate>
+    <image>
+      <url>https://sfrliufang.github.io/images/logo_hu785fca0ee71cd026e8d13310be6856c5_150044_300x300_fit_lanczos_2.png</url>
+      <title>Projects</title>
+      <link>https://sfrliufang.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Light-induced dynamics in low dimensional artificial lattices</title>
+      <link>https://sfrliufang.github.io/project/unraveling-light-induced-dynamics-in-2d-artificial-lattices/</link>
+      <pubDate>Mon, 17 Aug 2020 01:44:34 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/project/unraveling-light-induced-dynamics-in-2d-artificial-lattices/</guid>
+      <description>&lt;p&gt;We aim to probe dynamics in artificial structures constructed from low dimensional materials with time, energy, and momentum information from various pump probe techniques.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Production of macroscopic 2D structures</title>
+      <link>https://sfrliufang.github.io/project/production-of-macroscopic-2d-structures/</link>
+      <pubDate>Mon, 17 Aug 2020 01:43:24 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/project/production-of-macroscopic-2d-structures/</guid>
+      <description>&lt;p&gt;We aim to develop high throughput methods to create monolayer single crystal artificial structures, which will enable novel photonic, magnetic, or electronic properties along the edge states or heterostructures.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lightwave manipulation with low dimensional structures</title>
+      <link>https://sfrliufang.github.io/project/lightwave-manipulation-with-low-dimensional-structures/</link>
+      <pubDate>Mon, 17 Aug 2020 00:39:53 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/project/lightwave-manipulation-with-low-dimensional-structures/</guid>
+      <description>&lt;p&gt;Low dimensional crystals has prominent nonlinear optical behavior which can be used to manipulate light wave in multiple different way.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

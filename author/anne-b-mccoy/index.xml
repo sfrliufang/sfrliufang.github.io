@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anne B McCoy | Fang Liu group</title>
+    <link>https://sfrliufang.github.io/author/anne-b-mccoy/</link>
+      <atom:link href="https://sfrliufang.github.io/author/anne-b-mccoy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anne B McCoy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sfrliufang.github.io/images/logo_hu785fca0ee71cd026e8d13310be6856c5_150044_300x300_fit_lanczos_2.png</url>
+      <title>Anne B McCoy</title>
+      <link>https://sfrliufang.github.io/author/anne-b-mccoy/</link>
+    </image>
+    
+    <item>
+      <title>Deep tunneling in the unimolecular decay of CH$_3$CHOO Criegee intermediates to OH radical products</title>
+      <link>https://sfrliufang.github.io/publication/fang-2016-deep/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/fang-2016-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication: Real time observation of unimolecular decay of Criegee intermediates to OH radical products</title>
+      <link>https://sfrliufang.github.io/publication/fang-2016-communication/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/fang-2016-communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infrared-driven unimolecular reaction of CH$_3$CHOO Criegee intermediates to OH radical products</title>
+      <link>https://sfrliufang.github.io/publication/liu-2014-infrared/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/liu-2014-infrared/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kameron R Hansen | Fang Liu group</title>
+    <link>https://sfrliufang.github.io/author/kameron-r-hansen/</link>
+      <atom:link href="https://sfrliufang.github.io/author/kameron-r-hansen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kameron R Hansen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sfrliufang.github.io/images/logo_hu785fca0ee71cd026e8d13310be6856c5_150044_300x300_fit_lanczos_2.png</url>
+      <title>Kameron R Hansen</title>
+      <link>https://sfrliufang.github.io/author/kameron-r-hansen/</link>
+    </image>
+    
+    <item>
+      <title>Bimodal Bandgaps in Mixed Cesium Methylammonium Lead Bromide Perovskite Single Crystals</title>
+      <link>https://sfrliufang.github.io/publication/liu-2019-bimodal/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/liu-2019-bimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct determination of band-gap renormalization in the photoexcited monolayer MoS$_2$</title>
+      <link>https://sfrliufang.github.io/publication/liu-2019-direct/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/liu-2019-direct/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

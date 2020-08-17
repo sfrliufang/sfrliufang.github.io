@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sebastian Maehrlein | Fang Liu group</title>
+    <link>https://sfrliufang.github.io/author/sebastian-maehrlein/</link>
+      <atom:link href="https://sfrliufang.github.io/author/sebastian-maehrlein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sebastian Maehrlein</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sfrliufang.github.io/images/logo_hu785fca0ee71cd026e8d13310be6856c5_150044_300x300_fit_lanczos_2.png</url>
+      <title>Sebastian Maehrlein</title>
+      <link>https://sfrliufang.github.io/author/sebastian-maehrlein/</link>
+    </image>
+    
+    <item>
+      <title>Competition between hot-electron cooling and large polaron screening in CsPbBr$_3$ perovskite single crystals</title>
+      <link>https://sfrliufang.github.io/publication/evans-2018-competition/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/evans-2018-competition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

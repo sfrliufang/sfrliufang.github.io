@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew P Schlaus | Fang Liu group</title>
+    <link>https://sfrliufang.github.io/author/andrew-p-schlaus/</link>
+      <atom:link href="https://sfrliufang.github.io/author/andrew-p-schlaus/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrew P Schlaus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sfrliufang.github.io/images/logo_hu785fca0ee71cd026e8d13310be6856c5_150044_300x300_fit_lanczos_2.png</url>
+      <title>Andrew P Schlaus</title>
+      <link>https://sfrliufang.github.io/author/andrew-p-schlaus/</link>
+    </image>
+    
+    <item>
+      <title>How lasing happens in CsPbBr$_3$ perovskite nanowires</title>
+      <link>https://sfrliufang.github.io/publication/schlaus-2019-lasing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/schlaus-2019-lasing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

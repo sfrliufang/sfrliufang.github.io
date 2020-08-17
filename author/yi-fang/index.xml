@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yi Fang | Fang Liu group</title>
+    <link>https://sfrliufang.github.io/author/yi-fang/</link>
+      <atom:link href="https://sfrliufang.github.io/author/yi-fang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yi Fang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sfrliufang.github.io/images/logo_hu785fca0ee71cd026e8d13310be6856c5_150044_300x300_fit_lanczos_2.png</url>
+      <title>Yi Fang</title>
+      <link>https://sfrliufang.github.io/author/yi-fang/</link>
+    </image>
+    
+    <item>
+      <title>Deep tunneling in the unimolecular decay of CH$_3$CHOO Criegee intermediates to OH radical products</title>
+      <link>https://sfrliufang.github.io/publication/fang-2016-deep/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/fang-2016-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct observation of unimolecular decay of CH$_3$CH$_2$CHOO Criegee intermediates to OH radical products</title>
+      <link>https://sfrliufang.github.io/publication/fang-2016-direct/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/fang-2016-direct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication: Real time observation of unimolecular decay of Criegee intermediates to OH radical products</title>
+      <link>https://sfrliufang.github.io/publication/fang-2016-communication/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/fang-2016-communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct observation of vinyl hydroperoxide</title>
+      <link>https://sfrliufang.github.io/publication/liu-2015-direct/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/liu-2015-direct/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

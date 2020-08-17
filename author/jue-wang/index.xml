@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jue Wang | Fang Liu group</title>
+    <link>https://sfrliufang.github.io/author/jue-wang/</link>
+      <atom:link href="https://sfrliufang.github.io/author/jue-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jue Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sfrliufang.github.io/images/logo_hu785fca0ee71cd026e8d13310be6856c5_150044_300x300_fit_lanczos_2.png</url>
+      <title>Jue Wang</title>
+      <link>https://sfrliufang.github.io/author/jue-wang/</link>
+    </image>
+    
+    <item>
+      <title>Disassembling 2D van der Waals crystals into macroscopic monolayers and reassembling into artificial lattices</title>
+      <link>https://sfrliufang.github.io/publication/liu-2020-disassembling/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/liu-2020-disassembling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-Dimensional Moiré Excitons in Transition-Metal Dichalcogenide Heterobilayers</title>
+      <link>https://sfrliufang.github.io/publication/bai-2019-one/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/bai-2019-one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct determination of band-gap renormalization in the photoexcited monolayer MoS$_2$</title>
+      <link>https://sfrliufang.github.io/publication/liu-2019-direct/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/liu-2019-direct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cove-Edge Nanoribbon Materials for Efficient Inverted Halide Perovskite Solar Cells</title>
+      <link>https://sfrliufang.github.io/publication/castro-2017-cove/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://sfrliufang.github.io/publication/castro-2017-cove/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
